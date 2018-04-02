@@ -1,1 +1,0 @@
-# slimapp-customer-api
